@@ -1748,7 +1748,7 @@ transform: translateZ(120px) perspective(1000px);
      }
    
      .section.center {
-       height: auto;
+       height: 100vh;
        padding-top: 6vh;
        -webkit-box-orient: vertical;
        -webkit-box-direction: normal;

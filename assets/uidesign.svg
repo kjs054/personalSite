@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406.226" height="276.979" viewBox="0 0 406.226 276.979">
+  <g id="Group_3" data-name="Group 3" transform="matrix(0.951, -0.309, 0.309, 0.951, -442.174, 55.615)">
+    <path id="Path_49" data-name="Path 49" d="M13.646.042,357.752,1.09a13.946,13.946,0,0,1,13.687,14.078l.518,174.992a13.745,13.745,0,0,1-13.6,14L14.247,203.107A13.946,13.946,0,0,1,.56,189.029L.042,14.037A13.745,13.745,0,0,1,13.646.042Z" transform="matrix(0.995, 0.105, -0.105, 0.995, 413.786, 157.242)" fill="#64a6e0"/>
+    <text id="User_Interface_Design" data-name="User
+Interface
+Design" transform="matrix(0.995, 0.105, -0.105, 0.995, 437.918, 221.522)" fill="#2e3034" stroke="#2e3034" stroke-width="2" font-size="49" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800" letter-spacing="0.035em"><tspan x="0" y="0">USER</tspan><tspan x="0" y="56">INTERFACE</tspan><tspan x="0" y="112">DESIGN</tspan></text>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="178" height="17" transform="matrix(0.995, 0.105, -0.105, 0.995, 579.633, 198.749)" fill="#2e3034"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="177.065" height="9.781" transform="matrix(0.995, 0.105, -0.105, 0.995, 577.633, 219.91)" fill="#2e3034"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="178" height="5" transform="matrix(0.995, 0.105, -0.105, 0.995, 575.528, 234.875)" fill="#2e3034"/>
+    <path id="Path_50" data-name="Path 50" d="M28.5,0A28.5,28.5,0,1,1,0,28.5,28.5,28.5,0,0,1,28.5,0Z" transform="translate(619.586 310.477)" fill="#2e3034"/>
+    <text id="UI" transform="matrix(0.995, 0.105, -0.105, 0.995, 633.616, 349.048)" fill="#64a6e0" font-size="30" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800" letter-spacing="0.035em"><tspan x="0" y="0">UI</tspan></text>
+  </g>
+</svg>
